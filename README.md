@@ -1,2 +1,2 @@
 # designcraft-releases
-Mak Design — downloads (installers only)
+My Page — downloads (installers only)
